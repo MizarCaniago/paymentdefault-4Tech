@@ -11,6 +11,8 @@
     <li>Nuas Hadios Caniago</li>
     <li>Tanto Hari</li>
 </ul>
+Dataset: [Click Here](https://www.kaggle.com/reverie5/av-janata-hack-payment-default-prediction)
+
 
 ## <b>Summary Insight</b>
 1. Banyak nasabah bank yang mengalami default di bulan berikutnya adalah 4645 orang atau sebanyak 22,12% dari total keseluruhan nasabah bank (21.000).
